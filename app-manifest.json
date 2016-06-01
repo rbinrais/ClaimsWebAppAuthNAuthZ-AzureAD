@@ -1,0 +1,81 @@
+{
+  "appId": "3a71df83-4a88-4326-8bdf-00c2cb760a58",
+  "appRoles": [{
+      "allowedMemberTypes": [
+        "User"
+      ],
+      "description": "Reader Role",
+      "displayName": "Reader",
+      "id": "c400a00b-f67c-42b7-ba9a-f73d8c67e433",
+      "isEnabled": true,
+      "origin": "Application",
+      "value": "Reader"
+    },
+{
+   "allowedMemberTypes": [
+        "User"
+      ],
+      "description": "Administrator Role",
+      "displayName": "Administrator",
+      "id": "c400a00b-f67c-42b7-ba9a-f73d8c67e456",
+      "isEnabled": true,
+      "origin": "Application",
+      "value": "Admin"
+}
+    ],
+  "availableToOtherTenants": false,
+  "displayName": "ClaimsWebAppAuthNAuthZ-AzureAD",
+  "errorUrl": null,
+  "groupMembershipClaims": null,
+  "homepage": "https://localhost:44301",
+  "identifierUris": [
+    "https://ClaimsWebAppAuthNAuthZ-AzureAD"
+  ],
+  "keyCredentials": [],
+  "knownClientApplications": [],
+  "logoutUrl": null,
+  "oauth2AllowImplicitFlow": false,
+  "oauth2AllowUrlPathMatching": false,
+  "oauth2Permissions": [
+    {
+      "adminConsentDescription": "Allow the application to access ClaimsWebAppAuthNAuthZ-AzureAD on behalf of the signed-in user.",
+      "adminConsentDisplayName": "Access ClaimsWebAppAuthNAuthZ-AzureAD",
+      "id": "e54c602d-be6f-4bd6-9b47-e2a5fa658b9d",
+      "isEnabled": true,
+      "type": "User",
+      "userConsentDescription": "Allow the application to access ClaimsWebAppAuthNAuthZ-AzureAD on your behalf.",
+      "userConsentDisplayName": "Access ClaimsWebAppAuthNAuthZ-AzureAD",
+      "value": "user_impersonation"
+    }
+  ],
+  "oauth2RequirePostResponse": false,
+  "passwordCredentials": [],
+  "publicClient": null,
+  "replyUrls": [
+    "https://localhost:44301"
+  ],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "00000002-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "311a71cc-e848-46a1-bdf8-97ff7156d8e6",
+          "type": "Scope"
+        }
+      ]
+    }
+  ],
+  "samlMetadataUrl": null,
+  "extensionProperties": [],
+  "objectType": "Application",
+  "objectId": "57789bcc-b968-4279-8694-ccca8b8395bd",
+  "deletionTimestamp": null,
+  "createdOnBehalfOf": null,
+  "createdObjects": [],
+  "manager": null,
+  "directReports": [],
+  "members": [],
+  "memberOf": [],
+  "owners": [],
+  "ownedObjects": []
+}
