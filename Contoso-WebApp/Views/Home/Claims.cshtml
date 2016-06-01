@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Claims";
+}
+<h2>@ViewBag.Title.</h2>
+
+
+@foreach (var claim in @ViewBag.data)
+{
+    <li><b>@claim.Type : </b>  @claim.Value</li>
+}

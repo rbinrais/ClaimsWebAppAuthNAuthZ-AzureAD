@@ -1,0 +1,171 @@
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\csc.exe
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\vbc.exe
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\test.dll.config
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\test.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\test.pdb
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Antlr3.Runtime.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Newtonsoft.Json.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Owin.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Helpers.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Mvc.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Optimization.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Razor.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\WebGrease.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Helpers.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Mvc.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Optimization.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.Razor.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Newtonsoft.Json.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\obj\Debug\Contoso-Web.csprojResolveAssemblyReference.cache
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\obj\Debug\test.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\obj\Debug\test.pdb
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Contoso-ExternalAuthModule.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-WebApp\bin\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\csc.exe
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\vbc.exe
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\test.dll.config
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\test.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\test.pdb
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Antlr3.Runtime.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Newtonsoft.Json.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Owin.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Helpers.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Mvc.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Optimization.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Razor.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\WebGrease.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Helpers.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Mvc.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Optimization.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.Razor.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Antlr3.Runtime.pdb
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Newtonsoft.Json.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Identity Workshop\Claims demos\Contoso-WebApp\obj\Debug\Contoso-Web.csprojResolveAssemblyReference.cache
+C:\Identity Workshop\Claims demos\Contoso-WebApp\obj\Debug\test.dll
+C:\Identity Workshop\Claims demos\Contoso-WebApp\obj\Debug\test.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\csc.exe
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\vbc.exe
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\test.dll.config
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\test.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\test.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Antlr3.Runtime.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Newtonsoft.Json.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Owin.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Helpers.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Mvc.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Optimization.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Razor.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\WebGrease.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Helpers.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Mvc.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Optimization.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.Razor.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Antlr3.Runtime.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Newtonsoft.Json.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\obj\Debug\Contoso-Web.csprojResolveAssemblyReference.cache
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\obj\Debug\test.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-WebApp\obj\Debug\test.pdb

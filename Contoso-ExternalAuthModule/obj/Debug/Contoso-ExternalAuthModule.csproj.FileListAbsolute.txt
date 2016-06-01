@@ -1,0 +1,53 @@
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.pdb
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.dll
+C:\Users\super\OneDrive\ADFS\Demo\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.csprojResolveAssemblyReference.cache
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\Claims demos\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\Contoso-ExternalAuthModule.pdb
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Helpers.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Mvc.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.Razor.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.csprojResolveAssemblyReference.cache
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.dll
+C:\Identity Workshop\ClaimsAzureAppAuthnAuthZ-AzureAD\Contoso-ExternalAuthModule\obj\Debug\Contoso-ExternalAuthModule.pdb
